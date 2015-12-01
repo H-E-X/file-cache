@@ -1,11 +1,11 @@
 {
-    "name": "isty/file-cache",
-    "description": "Simple file cache for PHP",
-    "homepage": "https://github.com/Isty001/file-cache",
-    "keywords": ["cache", "array", "array-cache"],
+    "name": "hex/file-cache",
+    "description": "Simple file based cache for PHP",
+    "homepage": "https://github.com/H-E-X/file-cache",
+    "keywords": ["cache", "file", "file-cache"],
     "authors": [
       {
-        "name": "Isty001"
+        "name": "HEX"
       }
     ],
     "require-dev": {
