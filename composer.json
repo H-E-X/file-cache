@@ -1,0 +1,21 @@
+{
+    "name": "isty/file-cache",
+    "description": "Simple file cache for PHP",
+    "homepage": "https://github.com/Isty001/file-cache",
+    "keywords": ["cache", "array", "array-cache"],
+    "authors": [
+      {
+        "name": "Isty001"
+      }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "4.8"
+    },
+
+    "autoload":{
+        "psr-4":{
+            "Hex\\FileCache\\": "src/",
+            "Hex\\FileCache\\Tests\\": "tests/"
+        }
+    }
+}
